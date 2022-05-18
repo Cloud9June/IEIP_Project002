@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>학사관리 프로그램(TEST)</title>
 <link rel="stylesheet" href="../css/style.css?ver=2">
 </head>
 <body>
